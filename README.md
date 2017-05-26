@@ -1,0 +1,2 @@
+# UnityPlistToProtobuf
+从Plist到Protobuf, 根据Plist自动生成Protobuf结构的类定义
