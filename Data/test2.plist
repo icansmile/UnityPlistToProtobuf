@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>1</key>
+	<dict>
+		<key>id</key>
+		<string>1</string>
+		<key>name</key>
+		<string>achievement_name_1</string>
+		<key>dictstr</key>
+		<string>key1:v1,v2;key2:v1,v2</string>
+		<key>dictint</key>
+		<string>1:2,3;2:3,4</string>
+		<key>listint</key>
+		<string>5,6,7</string>
+	</dict>
+</dict>
+</plist>
